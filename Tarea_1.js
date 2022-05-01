@@ -67,3 +67,14 @@ var primerPalabra = prompt("Ingrese su primera palabra: ");
 var segundaPalabra = prompt("Ingrese su segunda palabra: ");
 
 console.log(primerPalabra + " " + segundaPalabra)
+
+//9.
+var text=prompt("Ingrese texto: ")
+
+console.log("La primera letra de su texto es: " + text.charAt(0));
+
+numcar = text.length;
+
+var indice=prompt("Ingrese un numero positivo menor a " + numcar);
+
+console.log("La letra en esa posición es: " + text.charAt(parseInt(indice)));
