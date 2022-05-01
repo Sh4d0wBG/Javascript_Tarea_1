@@ -188,3 +188,19 @@ if(num1>num2){
 }else{
     console.log(num2+ " es mayor");
 }
+
+//19.
+var letra = prompt("Ingrese una letra");
+
+console.log("Letra ingresada: "+letra)
+
+numCarac = letra.length;
+
+if(numCarac>1){
+    console.log("No se puede procesar el dato");
+    
+}else if(letra==="a" || letra==="e" || letra==="i" || letra==="o" || letra==="u"){
+    console.log("Es vocal");
+}else{
+    console.log("No es vocal")
+}
