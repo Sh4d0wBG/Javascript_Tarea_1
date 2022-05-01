@@ -150,3 +150,19 @@ if(numCaracUno<numCaracDos){
 }else{
     console.log("Mayor: False");
 }}
+
+//16.
+var nomUno = prompt("Ingrese su nombre primer usuario");
+var nomDos = prompt("Ingrese su nombre segundo usuario");
+
+console.log(nomUno)
+console.log(nomDos)
+
+letranomUno = nomUno.charAt(0)
+letranomDos = nomDos.charAt(0)
+
+if(letranomUno===letranomDos || nomUno[nomUno.length-1] == nomDos[nomDos.length-1]){
+    console.log("True");
+}else{
+    console.log("False");
+}
