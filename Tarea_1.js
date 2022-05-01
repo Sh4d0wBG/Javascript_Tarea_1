@@ -51,3 +51,13 @@ var suma = parseFloat(num1)+parseFloat(num2)+parseFloat(num3);
 var promedio = suma / 3;
 
 console.log("El resultado del promedio es: " + promedio)
+
+
+//7.
+var num1=prompt("Ingrese numero");
+
+var porcentaje=(15/100)*parseInt(num1);
+
+var resultado= parseFloat(num1)-porcentaje;
+
+console.log("Número descontando el 15% queda: " + resultado);
