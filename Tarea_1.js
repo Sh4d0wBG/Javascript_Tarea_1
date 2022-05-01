@@ -34,3 +34,10 @@ var cantLitrosCombus = prompt ("Ingrese cantidad de litros de combustible consum
 var gasto = parseInt(cantKm) / parseFloat(cantLitrosCombus);
 
 console.log("Cantidad consumo de combustible por kilometro: " + gasto)
+
+//5.
+var tempFaren = prompt("Ingrese temperatura: ");
+
+var celcius = (5/9) * parseFloat((tempFaren-32))
+
+console.log("Temperatura en Celcius es igual " + celcius)
