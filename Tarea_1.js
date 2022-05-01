@@ -151,6 +151,8 @@ if(numCaracUno<numCaracDos){
     console.log("Mayor: False");
 }}
 
+
+
 //16.
 var nomUno = prompt("Ingrese su nombre primer usuario");
 var nomDos = prompt("Ingrese su nombre segundo usuario");
@@ -166,3 +168,10 @@ if(letranomUno===letranomDos || nomUno[nomUno.length-1] == nomDos[nomDos.length-
 }else{
     console.log("False");
 }
+
+//17.
+var num= parseInt(prompt("Ingrese un numero"));
+
+valorAbsoluto= Math.abs(num);
+
+console.log("Numero ingresado: "+num)
