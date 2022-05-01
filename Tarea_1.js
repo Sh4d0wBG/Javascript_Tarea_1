@@ -108,3 +108,16 @@ if(numInt%2===0){
 }else{
     console.log("Impar: False");
 }
+
+//13.
+var edad = prompt("Ingrese su edad");
+var cantArtComp = prompt("Ingrese cantidad de articulos comprados en la tienda")
+
+console.log("Su edad es: "+edad)
+console.log("Usted compro "+cantArtComp+ " articulos")
+
+if((edad>18) && (cantArtComp>1)){
+    console.log("True");
+}else{
+    console.log("False");
+}
