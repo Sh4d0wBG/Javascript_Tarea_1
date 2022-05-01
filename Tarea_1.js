@@ -26,3 +26,11 @@ var num3 = prompt("Ingrese tercer numero: ");
 var multiplicacion = suma * parseInt(num3);
 
 console.log("Resultado total: " + multiplicacion)
+
+//4.
+var cantKm = prompt ("Ingrese cantidad de kilometros recorridos: ");
+var cantLitrosCombus = prompt ("Ingrese cantidad de litros de combustible consumidos: ")
+
+var gasto = parseInt(cantKm) / parseFloat(cantLitrosCombus);
+
+console.log("Cantidad consumo de combustible por kilometro: " + gasto)
