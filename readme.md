@@ -35,4 +35,4 @@ ___
 
 Espero haya sido de tu agrado esta pequeña guia!! Si tienes alguna pregunta, no dudes en contactarnos ;) !!
 
->> Correo: stephagarcia@hotmail.com
+>> Correo: stephagarcia02@hotmail.com / camilomodquera@gmail.com
