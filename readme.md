@@ -1,12 +1,6 @@
-# Curriculum Vitae - SBG
+# JavaScript Ejercicios- SBG / SCMR
 
-En esta pagina web se presenta a la Hoja de vida de la estudiante Stephanie Blanquicett Garcia, que tratará temas de '¿Quien soy?', 'Estudios', 'Intereses' y 'Redes Sociales'.
-
-
-### ¿Como se hizo la pagina web?
-
-Se trabajó sobre un template de Bootstrap de la siguiente página: https://startbootstrap.com/.
-Eligiendo asi entonces el template '[Grayscale](https://startbootstrap.com/theme/grayscale)' moficiando y adaptando los datos a este.
+En este repositorio se presentara los varios ejercicios propuestos ya resueltos. Los integrantes de este proyecto fueron Stephanie Blanquicett Garcia y Sayan Camilo Mosquera Román
 
 ___
 
@@ -20,28 +14,8 @@ JavaScript es el lenguaje de programación que debes usar para añadir caracter�
 #### Sintaxis basica
 
 
-``` <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>HTML</title>
-</head>
-<body>
-  <!-- contenido de la página -->
-</body>
-</html>
-```
+![Sintaxis - JS](https://github.com/Sh4d0wBG/Javascript_Tarea_1/blob/master/assets/img/sintaxis.png)
 
-
-### CSS
-
-CSS son las siglas en inglés para «hojas de estilo en cascada» (Cascading Style Sheets). Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de las páginas.
-
-Se les denomina hojas de estilo «en cascada» porque puedes tener varias hojas y una de ellas con las propiedades heredadas (o «en cascada») de otras.
-
-#### Sintaxis basica
-
-![CSS](https://github.com/Bla4ckGM1nd/TALLER_1_GIT/blob/master/assets/img/csspartes.png)
 
 ### GIT
 
@@ -59,6 +33,6 @@ Podemos movernos, como si tuviéramos un puntero en el tiempo, por todas las rev
 
 ___
 
-Espero haya sido de tu agrado esta pequeña guia!! Si tienes alguna pregunta, no dudes en contactarme ;) !!
+Espero haya sido de tu agrado esta pequeña guia!! Si tienes alguna pregunta, no dudes en contactarnos ;) !!
 
 >> Correo: stephagarcia@hotmail.com
