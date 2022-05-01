@@ -96,3 +96,15 @@ var mes = parseInt(prompt("Ingrese mes (MM)"));
 var año = parseInt(prompt("Ingrese año (AAAA)"));
 
 console.log (dia+"/"+mes+"/"+año)
+
+
+//12.
+var numInt = parseInt(prompt("Ingrese un numero"));
+
+console.log("El numero es: "+numInt)
+
+if(numInt%2===0){
+    console.log("Par: True");
+}else{
+    console.log("Impar: False");
+}
