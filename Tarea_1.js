@@ -89,3 +89,10 @@ if(numShows>3){
 }else{
     console.log("False");
 }
+
+//11.
+var dia = parseInt(prompt("Ingrese dia (DD)"));
+var mes = parseInt(prompt("Ingrese mes (MM)"));
+var año = parseInt(prompt("Ingrese año (AAAA)"));
+
+console.log (dia+"/"+mes+"/"+año)
