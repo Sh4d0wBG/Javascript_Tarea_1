@@ -175,3 +175,16 @@ var num= parseInt(prompt("Ingrese un numero"));
 valorAbsoluto= Math.abs(num);
 
 console.log("Numero ingresado: "+num)
+
+//18.
+var num1 = parseInt(prompt("Ingrese un numero"));
+var num2 = parseInt(prompt("Ingrese otro numero"));
+
+console.log("Primer numero: "+num1)
+console.log("Segundo numero: "+num2)
+
+if(num1>num2){
+    console.log(num1 + " es mayor");
+}else{
+    console.log(num2+ " es mayor");
+}
