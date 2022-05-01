@@ -121,3 +121,16 @@ if((edad>18) && (cantArtComp>1)){
 }else{
     console.log("False");
 }
+
+//14.
+var frase = prompt("Ingrese texto");
+
+console.log(frase)
+
+numCaracteres = frase.length;
+
+if(numCaracteres%2===0){
+    console.log("Par: True");
+}else{
+    console.log("Impar: False");
+}
