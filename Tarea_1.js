@@ -61,3 +61,9 @@ var porcentaje=(15/100)*parseInt(num1);
 var resultado= parseFloat(num1)-porcentaje;
 
 console.log("Número descontando el 15% queda: " + resultado);
+
+//8.
+var primerPalabra = prompt("Ingrese su primera palabra: ");
+var segundaPalabra = prompt("Ingrese su segunda palabra: ");
+
+console.log(primerPalabra + " " + segundaPalabra)
