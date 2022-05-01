@@ -78,3 +78,14 @@ numcar = text.length;
 var indice=prompt("Ingrese un numero positivo menor a " + numcar);
 
 console.log("La letra en esa posición es: " + text.charAt(parseInt(indice)));
+
+//10.
+var numShows = parseInt(prompt("¿Cuantos shows musicales ha visto en el ultimo año?"))
+
+console.log("Numero de shows musicales vistos en el ultimo año: " + numShows)
+
+if(numShows>3){
+    console.log("True");
+}else{
+    console.log("False");
+}
