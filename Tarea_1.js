@@ -133,4 +133,20 @@ if(numCaracteres%2===0){
     console.log("Par: True");
 }else{
     console.log("Impar: False");
-}
+
+
+//15.
+var palabraUno = prompt("Escriba una primer palabra");
+var palabraDos = prompt("Escriba una segunda palabra");
+
+console.log("Primer palabra: "+ palabraUno);
+console.log("Segunda palabra: "+ palabraDos);
+
+numCaracUno = palabraUno.length;
+numCaracDos = palabraDos.length;
+
+if(numCaracUno<numCaracDos){
+    console.log("Menor: True");
+}else{
+    console.log("Mayor: False");
+}}
