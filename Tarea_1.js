@@ -204,3 +204,24 @@ if(numCarac>1){
 }else{
     console.log("No es vocal")
 }
+
+//20.
+var num1 = parseInt(prompt("Ingrese un numero"));
+var num2 = parseInt(prompt("Ingrese otro numero"));
+var num3 = parseInt(prompt("Ingrese otro numero mas"));
+
+console.log("Primer numero: "+num1)
+console.log("Segundo numero: "+num2)
+console.log("Tercer numero: "+num3)
+
+menor = num1;
+ 
+if ( num2 < menor){
+    menor = num2;
+}
+
+if ( num3 < menor){
+    menor = num3;
+}
+
+console.log(menor+" es menor")
