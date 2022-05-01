@@ -41,3 +41,13 @@ var tempFaren = prompt("Ingrese temperatura: ");
 var celcius = (5/9) * parseFloat((tempFaren-32))
 
 console.log("Temperatura en Celcius es igual " + celcius)
+
+//6.
+var num1 = prompt("Ingrese primer numero: ");
+var num2 = prompt("Ingrese segundo numero: ");
+var num3 = prompt("Ingrese tercer numero: ");
+
+var suma = parseFloat(num1)+parseFloat(num2)+parseFloat(num3);
+var promedio = suma / 3;
+
+console.log("El resultado del promedio es: " + promedio)
